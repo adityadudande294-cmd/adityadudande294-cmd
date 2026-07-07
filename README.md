@@ -112,6 +112,28 @@ Currently working on a research paper focused on **AI-driven crisis detection an
 **Status:** 🟡 Proposal Submitted | Research in Progress
 
 ---
+---
+
+## 🎓 Z-Connect – Alumni & Student Networking Platform
+
+A dedicated LinkedIn-inspired networking platform designed exclusively for educational institutions. Z-Connect bridges the gap between students, alumni, faculty, and administrators by enabling professional networking, mentorship, career guidance, and placement opportunities within a single college ecosystem.
+
+### 🔥 Features
+
+- 👨‍🎓 Student Profiles
+- 🎓 Alumni Profiles
+- 🤝 Alumni-Student Networking
+- 💬 Mentorship & Career Guidance
+- 💼 Internship & Job Opportunities
+- 📢 College Announcements
+- 🔍 Smart Search & Profile Discovery
+- 🔐 Secure Authentication
+
+### 🛠 Tech Stack
+
+React.js • Django • MongoDB • Django REST Framework • Tailwind CSS
+
+> 🎓 **Academic Major Project**
 
 # 📍 Location
 

@@ -44,6 +44,63 @@
 <br>
 
 # 📊 GitHub Analytics
+<br>
+
+# 💻 Tech Stack
+
+<h3 align="center">Programming Languages</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript" />
+</p>
+
+---
+
+<h3 align="center">Frontend Development</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite" />
+</p>
+
+---
+
+<h3 align="center">Backend Development</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=django,nodejs,express" />
+</p>
+
+---
+
+<h3 align="center">Database</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+---
+
+<h3 align="center">AI / Data Science</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda" />
+</p>
+
+---
+
+<h3 align="center">Cloud & DevOps</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+</p>
+
+---
+
+<h3 align="center">Tools</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,postman" />
+</p>
 
 <p align="center">
 

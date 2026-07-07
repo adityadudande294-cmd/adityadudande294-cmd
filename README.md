@@ -45,7 +45,7 @@
 
 # 🚀 About Me
 
-```python
+python
 class AdityaDudande:
 
     def __init__(self):
@@ -181,3 +181,162 @@ me = AdityaDudande()
 </p>
 
 <!-- ================= END OF PART 2 ================= -->
+<!-- ================= START OF PART 3 ================= -->
+
+<br>
+
+<h1 align="center">💻 Tech Arsenal</h1>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript" />
+
+</p>
+
+<p align="center">
+<b>Programming Languages</b>
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vite" />
+
+</p>
+
+<p align="center">
+<b>Frontend Development</b>
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=django,nodejs,express,fastapi" />
+
+</p>
+
+<p align="center">
+<b>Backend Development</b>
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgresql" />
+
+</p>
+
+<p align="center">
+<b>Databases</b>
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda" />
+
+</p>
+
+<p align="center">
+<b>Artificial Intelligence & Machine Learning</b>
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,bash" />
+
+</p>
+
+<p align="center">
+<b>Cloud • DevOps • Version Control</b>
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,postman,figma" />
+
+</p>
+
+<p align="center">
+<b>Development Tools</b>
+</p>
+
+---
+
+## 🚀 Core Expertise
+
+<table>
+
+<tr>
+
+<td width="33%">
+
+### 🤖 AI & ML
+
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- Predictive Analytics
+
+</td>
+
+<td width="33%">
+
+### 🌐 Full Stack
+
+- React
+- Django
+- REST API
+- MongoDB
+- Authentication
+
+</td>
+
+<td width="33%">
+
+### 📊 Data
+
+- SQL
+- Power BI
+- Data Analytics
+- Data Visualization
+- Statistics
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">⚡ Current Focus</h2>
+
+<p align="center">
+
+🤖 Artificial Intelligence • 🧠 Machine Learning • ⚛️ React • 🌿 Django • ☁️ AWS • 📊 Data Analytics
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Always-Learning-ff1744?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Engineer-red?style=for-the-badge"/>
+
+</p>
+
+<!-- ================= END OF PART 3 ================= -->

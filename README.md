@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-<!--
+<!--# Hi 👋
+
+I'm Aditya Dudande
+
+MCA Student
+
+AI Engineer
+
+Data Analyst
 **adityadudande294-cmd/adityadudande294-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

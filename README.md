@@ -112,3 +112,72 @@ me = AdityaDudande()
 </h3>
 
 <!-- ================= END OF PART 1 ================= -->
+<!-- ================= START OF PART 2 ================= -->
+
+<br>
+
+<h1 align="center">📊 GitHub Analytics Dashboard</h1>
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityadudande294-cmd&show_icons=true&theme=radical&hide_border=true&border_radius=18&count_private=true&include_all_commits=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadudande294-cmd&layout=compact&theme=radical&hide_border=true&border_radius=18&langs_count=10"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=adityadudande294-cmd&theme=radical&hide_border=true&border_radius=18"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityadudande294-cmd&theme=github_dark"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityadudande294-cmd&theme=github_dark" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityadudande294-cmd&theme=github_dark" width="49%"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityadudande294-cmd&theme=github_dark&utcOffset=5.5"/>
+
+</p>
+
+---
+
+<h2 align="center">🔥 GitHub Achievements</h2>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adityadudande294-cmd&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
+
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityadudande294-cmd&theme=react-dark&hide_border=true&area=true&radius=16"/>
+
+</p>
+
+<!-- ================= END OF PART 2 ================= -->

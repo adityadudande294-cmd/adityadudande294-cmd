@@ -140,6 +140,55 @@ React.js • Django • MongoDB • Django REST Framework • Tailwind CSS
 📍 Pune, Maharashtra, India
 
 ---
+<br>
+
+# 🏆 GitHub Performance
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adityadudande294-cmd&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityadudande294-cmd&theme=react-dark&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# 📊 Coding Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityadudande294-cmd&theme=radical"/>
+
+</p>
+
+---
+
+# ⚡ GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityadudande294-cmd&theme=radical" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityadudande294-cmd&theme=radical" width="48%"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityadudande294-cmd&theme=radical" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityadudande294-cmd&theme=radical&utcOffset=5.5" width="48%"/>
+
+</p>
 
 # 🎯 2027 Goals
 

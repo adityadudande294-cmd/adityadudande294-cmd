@@ -30,76 +30,42 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff003c,100:0d0d0d&height=3&width=100%" />
 
-<!-- ================= ABOUT ME ================= -->
+## ⟢ ABOUT ME
 
-<h2 align="center">🚀 About Me</h2>
-
-<table>
+<table align="center" width="100%">
 <tr>
+<td width="55%" valign="top">
 
-<td width="60%">
-
-### 👋 Hi, I'm Aditya Dudande
-
-🎓 **MCA Student (3rd Semester)**  
-Zeal Institute of Business Administration, Computer Application and Research  
-Savitribai Phule Pune University
-
----
-
-### 💡 What I Do
-
-🤖 Artificial Intelligence
-
-🧠 Machine Learning
-
-📊 Data Analytics
-
-💻 Full Stack Development
-
-☁️ Cloud Computing
-
----
-
-### 🚀 Currently Building
-
-🎬 **Velora** — AI Powered OTT Platform
-
-🎓 **Z-Connect** — Alumni & Student Networking Platform
-
-📄 **AI-Based Crisis Detection System** (Research)
-
----
-
-### 🎯 Mission
-
-> **To build intelligent AI products that solve real-world problems and positively impact millions of people.**
+```yaml
+aditya_dudande:
+  role: "Aspiring AI Engineer"
+  focus: ["Artificial Intelligence", "Machine Learning", "Deep Learning", "Full Stack Development", "Data Analytics"]
+  education:
+    degree: "Master of Computer Applications (MCA)"
+    institute: "Zeal Institute of Business Administration, Computer Application and Research"
+    university: "Savitribai Phule Pune University"
+    semester: "3rd Semester"
+    graduation: "2027"
+  location: "Pune, Maharashtra, India"
+  mission: "Build AI products that solve real-world problems."
+```
 
 </td>
+<td width="45%" valign="top">
 
-<td width="40%" align="center">
+<div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2M0NW5qcnFzdnE5cXF2eGlyY2l4dXF6cHJsYW4xYm1rbzY2eHFhMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif" width="280"/>
+**Career Objective**
 
-<br><br>
+Becoming an **AI Engineer** who designs intelligent, human-centered systems — bridging the gap between deep learning research and production-ready full stack products.
 
-<img src="https://img.shields.io/badge/AI%20Engineer-FF0055?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Full%20Stack-111111?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Data%20Analytics-FF0055?style=for-the-badge"/>
+</div>
 
 </td>
-
 </tr>
 </table>
 
----
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:ff003c&height=3&width=100%" />
 
 ## ⟢ GITHUB ANALYTICS
 

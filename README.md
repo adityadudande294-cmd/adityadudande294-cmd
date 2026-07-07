@@ -135,6 +135,89 @@ Currently working on a research paper focused on **AI-driven crisis detection an
 
 ✅ Build Innovative Products that Create Real Impact
 
+<br>
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🎬 Velora – AI Powered OTT Platform
+
+An AI-powered modern OTT streaming platform focused on delivering an intelligent, personalized and seamless entertainment experience.
+
+### 🔥 Features
+
+- 🎥 Smart Content Discovery
+- 🤖 AI Recommendation System
+- 👤 User Authentication
+- ❤️ Watchlist
+- 📱 Responsive UI
+- ⚡ Fast Performance
+
+### 🛠 Tech Stack
+
+React • Django • MongoDB • REST API • Tailwind CSS
+
+> 🚧 **Status:** Currently Under Development
+
+</td>
+
+<td width="50%">
+
+## 🚨 AI Crisis Detection System
+
+An AI-powered emergency alert system designed to detect global crisis events and instantly notify users travelling abroad with location-based intelligent alerts.
+
+### 🔥 Features
+
+- 🌍 Geo-Location Alerts
+- 🤖 AI Crisis Detection
+- 📍 Real-Time Emergency Notification
+- 📡 Live Monitoring
+- 🛰 Location Intelligence
+
+### 🛠 Tech Stack
+
+Python • Machine Learning • NLP • Maps API • React
+
+> 📄 **Status:** Research Proposal Submitted
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💡 Upcoming Projects
+
+🚀 AI Interview Assistant
+
+📊 Data Analytics Dashboard
+
+🧠 Deep Learning Projects
+
+☁️ AWS Cloud Projects
+
+🤖 Machine Learning Portfolio
+
+📱 Full Stack Enterprise Applications
+
+---
+
+# ⭐ What I'm Currently Working On
+
+- 🚀 Building **Velora**
+- 📄 Publishing International Research Paper
+- 🤖 Learning Advanced AI & Machine Learning
+- ⚛️ Mastering React + Django
+- ☁️ Exploring AWS Cloud
+- 📊 Improving Data Analytics Skills
+
+
 <h3 align="center">Programming Languages</h3>
 
 <p align="center">

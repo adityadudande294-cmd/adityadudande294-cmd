@@ -29,41 +29,116 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff003c,100:0d0d0d&height=3&width=100%" />
+<!-- ================= ABOUT ME ================= -->
 
 ## ⟢ ABOUT ME
 
-<table align="center" width="100%">
+<table>
 <tr>
-<td width="55%" valign="top">
 
-```yaml
-aditya_dudande:
-  role: "Aspiring AI Engineer"
-  focus: ["Artificial Intelligence", "Machine Learning", "Deep Learning", "Full Stack Development", "Data Analytics"]
-  education:
-    degree: "Master of Computer Applications (MCA)"
-    institute: "Zeal Institute of Business Administration, Computer Application and Research"
-    university: "Savitribai Phule Pune University"
-    semester: "3rd Semester"
-    graduation: "2027"
-  location: "Pune, Maharashtra, India"
-  mission: "Build AI products that solve real-world problems."
-```
+<td width="58%" valign="top">
+
+# 👋 Hello, I'm Aditya Dudande
+
+🎓 **Master of Computer Applications (MCA)**  
+Zeal Institute of Business Administration, Computer Application and Research  
+Savitribai Phule Pune University (Expected Graduation: **2027**)
+
+---
+
+### 🚀 Current Mission
+
+Designing intelligent software that combines **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development** to solve real-world problems.
+
+---
+
+### 🔥 Currently Building
+
+🎬 **Velora**  
+AI Powered OTT Platform
+
+🎓 **Z-Connect**  
+LinkedIn-inspired Alumni & Student Networking Platform
+
+📄 **AI-Based Crisis Detection & Geo-Location Alert System**  
+Research Proposal Submitted
+
+---
+
+### 🧠 Core Interests
+
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+📊 Data Analytics
+
+⚛️ Full Stack Development
+
+☁️ Cloud Computing
+
+📚 Research & Innovation
+
+---
+
+### 🎯 Career Vision
+
+> Build AI products used by millions of people and contribute to the future of intelligent software.
 
 </td>
-<td width="45%" valign="top">
+
+<td width="42%" align="center" valign="top">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI_ENGINEER-ff003c?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/RESEARCHER-6f42c1?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/OPEN_TO_INTERNSHIPS-00875A?style=for-the-badge&logo=rocket&logoColor=white"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityadudande294-cmd&theme=github_dark" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-**Career Objective**
+### ⚡ AI ENGINEER ROADMAP
 
-Becoming an **AI Engineer** who designs intelligent, human-centered systems — bridging the gap between deep learning research and production-ready full stack products.
+```text
+AI Fundamentals      ██████████░░ 80%
+
+Machine Learning     █████████░░░ 75%
+
+Deep Learning        ███████░░░░░ 60%
+
+Full Stack           ██████████░░ 82%
+
+Data Analytics       █████████░░░ 78%
+
+Cloud & DevOps       ██████░░░░░░ 50%
+```
+
+> **"Every commit brings me one step closer to building the future with AI."**
 
 </div>
-
-</td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:ff003c&height=3&width=100%" />
 

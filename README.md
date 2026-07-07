@@ -1,71 +1,85 @@
-<!-- 
-═══════════════════════════════════════════════════════════════════════════════════
-  SYSTEM INITIALIZED: ADITYA DUDANDE // AI & UI/UX ENGINEER [V4.0.0 - CYBERPUNK]
-═══════════════════════════════════════════════════════════════════════════════════
--->
-
 <div align="center">
 
-  <!-- ANIMATED WAVING HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0055,100:000000&height=260&section=header&text=ADITYA%20DUDANDE&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Architect%20%7C%20Deep%20Learning%20Specialist&descAlign=60&descAlignY=62" alt="Aditya Dudande Cyberpunk Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:1e1b4b,100:09090B&height=220&section=header&text=ADITYA%20DUDANDE&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20in%20the%20making%20%C2%B7%20Building%20systems%2C%20not%20demos&descAlignY=62&descSize=15&descColor=94A3B8" width="100%"/>
 
-  <!-- PREMIUM TYPING ANIMATION -->
-  <a href="https://github.com/adityadudande294-cmd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=50&lines=%3E+SYSTEM.INITIALIZE(AI_ENGINEER);%3E+ARCHITECTING+INTELLIGENT+REAL-WORLD+PRODUCTS;%3E+BUILDING+NEXT-GEN+FULL-STACK+APPLICATIONS;%3E+MCA+CANDIDATE+%40+ZIBACAR+%2F%2F+SPPU+2027;%3E+ADVANCING+MACHINE+LEARNING+%26+DEEP+LEARNING;" alt="Typing Animation"/>
-  </a>
+<br/>
 
-  <br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3200&pause=1000&color=3B82F6&center=true&vCenter=true&width=760&height=50&lines=Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+Generative+AI;Full+Stack+Engineer+%C2%B7+MCA+%2726" alt="Typing SVG" />
 
-  <!-- SOCIAL LINKS & LIVE TELEMETRY -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/aditya-dudande-4947262a7" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=000000&borderColor=FF0055" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:adityadudande@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-0A0A0F?style=for-the-badge&logo=gmail&logoColor=FF007F&labelColor=000000&borderColor=FF0055" alt="Email"/>
-    </a>
-    <a href="https://github.com/adityadudande294-cmd">
-      <img src="https://img.shields.io/badge/GITHUB-0A0A0F?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000&borderColor=FF0055" alt="GitHub"/>
-    </a>
-    <a href="https://github.com/adityadudande294-cmd">
-      <img src="https://komarev.com/ghpvc/?username=adityadudande294-cmd&label=CYBER-VISITORS&color=ff0055&style=for-the-badge" alt="Visitor Counter"/>
-    </a>
-  </p>
+<br/><br/>
 
-  <!-- ANIMATED CYBERPUNK DIVIDER -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<a href="https://www.linkedin.com/in/aditya-dudande-4947262a7"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=09090B"/></a>
+<a href="mailto:adityadudande@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=F8FAFC&labelColor=09090B"/></a>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:06B6D4,100:8B5CF6&height=2&width=100%" />
 
-<!-- ABOUT ME & EXECUTIVE HUD -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color: #0A0A0F; border-radius: 12px; border: 1px solid #FF0055;">
-  <tr>
-    <td width="65%" valign="top" style="padding: 25px;">
-      <h2 style="color:#FF0055; margin-top:0;">⚡ SYSTEM BIOGRAPHY // EXECUTIVE SUMMARY</h2>
-      <p align="justify" style="color: #c9d1d9;">
-        Welcome to my digital command center. I am an <b>MCA candidate</b> at <b>Zeal Institute of Business Administration, Computer Application and Research (ZIBACAR)</b>, affiliated with <b>Savitribai Phule Pune University (SPPU)</b>, operating at the convergence of <b>Artificial Intelligence, Deep Learning, and Full-Stack Engineering</b>.
-      </p>
-      <p align="justify" style="color: #c9d1d9;">
-        My mission is to engineer high-performance, intelligent AI products that solve genuine, real-world challenges rather than just impressive demos. From autonomous crisis-detection architectures to scalable institutional networking ecosystems, I combine <b>algorithmic rigor</b> with <b>modern UI/UX design</b> to deliver production-ready software.
-      </p>
-      <br/>
-      <p>
-        <img src="https://img.shields.io/badge/LOCATION-PUNE,_INDIA-000000?style=flat-square&logo=google-maps&logoColor=FF0055&color=111111" alt="Location"/>
-        <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-000000?style=flat-square&logo=pulse&logoColor=00FFFF&color=111111" alt="Status"/>
-        <img src="https://img.shields.io/badge/GRADUATION-2027-000000?style=flat-square&logo=academiccap&logoColor=FF007F&color=111111" alt="Graduation"/>
-      </p>
-    </td>
-    <td width="35%" align="center" valign="middle" style="padding: 20px; border-left: 1px solid #1f1f2e;">
-      <!-- JARVIS / CYBERPUNK HUD ANIMATION -->
-      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/196b8686000091.5d8d8ee463b2f.gif" width="240" alt="Cyberpunk HUD Animation"/>
-    </td>
-  </tr>
+### About
+
+I'm an MCA student at Zeal Institute of Business Administration, Computer Application and Research (SPPU), 3rd semester, graduating 2027. I build AI systems end-to-end — from model to production — rather than isolated notebooks.
+
+Currently building **Velora**, an AI-powered OTT platform, and **Z-Connect**, an alumni-student networking platform, alongside a research proposal on AI-driven crisis detection for international travelers.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:3B82F6&height=2&width=100%" />
+
+### Work
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Velora — AI Powered OTT Platform**
+Recommendation-driven streaming platform.
+`React` `Django` `MongoDB` `Tailwind` `REST API`
+Status: In Development
+
+</td>
+<td width="50%" valign="top">
+
+**Z-Connect — Alumni Network**
+Mentorship & career platform for students and alumni.
+`React` `Django` `MongoDB`
+Status: In Development
+
+</td>
+</tr>
 </table>
 
-<br/>
+**Research** — *AI-Based Crisis Detection & Geo-Location Alert System for International Travelers*
+AI + geo-intelligence for real-time emergency alerting. Status: Proposal Submitted
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:06B6D4,100:8B5CF6&height=2&width=100%" />
+
+### Stack
+
+`Python` `Java` `C++` `TypeScript` · `React` `Next.js` `Tailwind` · `Django` `FastAPI` `Node.js` · `MongoDB` `PostgreSQL` `Firebase` · `AWS` `Docker` · `TensorFlow` `PyTorch` `OpenCV` `Power BI`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:3B82F6&height=2&width=100%" />
+
+### GitHub
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=adityadudande294-cmd&show_icons=true&hide_border=true&bg_color=09090B&title_color=3B82F6&icon_color=06B6D4&text_color=F8FAFC&ring_color=8B5CF6"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=adityadudande294-cmd&hide_border=true&background=09090B&ring=3B82F6&fire=8B5CF6&currStreakLabel=06B6D4"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityadudande294-cmd&bg_color=09090B&color=3B82F6&line=06B6D4&point=F8FAFC&area=true&area_color=8B5CF6&hide_border=true" width="90%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:06B6D4,100:8B5CF6&height=2&width=100%" />
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/adityadudande294-cmd/adityadudande294-cmd/output/github-contribution-grid-snake.svg" width="100%"/>
+
+<br/><br/>
+
+Pune, Maharashtra, India
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:1e1b4b,100:09090B&height=120&section=footer" width="100%"/>
+
 </div>

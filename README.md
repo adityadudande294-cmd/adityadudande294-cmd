@@ -47,6 +47,93 @@
 <br>
 
 # 💻 Tech Stack
+<br>
+
+# 👨‍🎓 Education
+
+🎓 **Master of Computer Applications (MCA)**  
+**Zeal Institute of Business Administration, Computer Application and Research**  
+Affiliated to **Savitribai Phule Pune University (SPPU), Pune**  
+📅 **2025 – 2027**  
+📖 **Current Semester:** 3rd
+
+---
+
+# 🚀 Career Objective
+
+I am an MCA student with a strong passion for **Artificial Intelligence, Machine Learning, Full Stack Development, and Data Analytics**. My goal is to become an **AI Engineer** and build intelligent solutions that solve real-world problems and create meaningful impact.
+
+---
+
+# 🌱 Currently Learning
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Deep Learning
+- ⚛️ React.js
+- 🌿 Django & Django REST Framework
+- ☁️ AWS Cloud
+- 🗄️ SQL & MongoDB
+- 📈 Data Analytics & Power BI
+- 🐳 Docker & GitHub Actions
+
+---
+
+# 💼 Current Project
+
+## 🎬 Velora – AI Powered OTT Platform
+
+An intelligent OTT platform designed with modern web technologies, focused on delivering a seamless and smart streaming experience.
+
+**Tech Stack**
+
+- React.js
+- Django
+- MongoDB
+- REST API
+- Tailwind CSS
+
+---
+
+# 📄 Research
+
+### AI-Based Crisis Detection and Geo-Location Alert System for International Travelers
+
+Currently working on a research paper focused on **AI-driven crisis detection and intelligent geo-location alerts** for travelers abroad. The proposal has been submitted, and the work is in progress for publication.
+
+**Research Area**
+
+- Artificial Intelligence
+- Machine Learning
+- Crisis Detection
+- Emergency Response
+- Geo-Location Intelligence
+
+**Status:** 🟡 Proposal Submitted | Research in Progress
+
+---
+
+# 📍 Location
+
+📍 Pune, Maharashtra, India
+
+---
+
+# 🎯 2027 Goals
+
+✅ Become an AI Engineer
+
+✅ Publish Research Papers in International Conferences
+
+✅ Build AI-Based Real World Applications
+
+✅ Master Full Stack Development
+
+✅ Contribute to Open Source
+
+✅ Secure an AI/ML Internship
+
+✅ Build Innovative Products that Create Real Impact
 
 <h3 align="center">Programming Languages</h3>
 

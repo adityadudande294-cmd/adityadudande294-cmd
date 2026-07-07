@@ -42,40 +42,35 @@
 </p>
 
 ---
-
 # 🚀 About Me
 
-python
-class AdityaDudande:
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-    def __init__(self):
+### 👋 Hello, I'm Aditya Dudande
 
-        self.name = "Aditya Dudande"
+🎓 MCA Student @ Zeal Institute of Business Administration, Computer Application and Research
 
-        self.role = "AI Engineer"
+🤖 Passionate about Artificial Intelligence & Machine Learning
 
-        self.education = "Master of Computer Applications"
+💻 Full Stack Developer
 
-        self.university = "Savitribai Phule Pune University"
+📊 Data Analytics Enthusiast
 
-        self.current_project = "Velora"
+🚀 Currently Building **Velora**
 
-        self.major_project = "Z-Connect"
+🎓 Major Project: **Z-Connect**
 
-        self.research = "AI Crisis Detection System"
+📄 Researching **AI-Based Crisis Detection System**
 
-        self.location = "Pune, India"
+🌍 Based in Pune, Maharashtra, India
 
-        self.goal = "Build AI Products That Impact Millions"
+🎯 Mission:
+> Build intelligent AI products that solve real-world problems and positively impact millions of people.
 
-    def say_hi(self):
-
-        return "Thanks for visiting my GitHub Profile ❤️"
-
-me = AdityaDudande()
-```
+<br clear="right"/>
 
 ---
+
 
 # 💡 Quick Overview
 

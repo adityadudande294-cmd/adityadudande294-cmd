@@ -41,6 +41,23 @@
 ---
 
 ## 👨‍💻 About Me
+<br>
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityadudande294-cmd&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadudande294-cmd&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=adityadudande294-cmd&theme=radical&hide_border=true"/>
+
+</p>
 
 🎓 MCA Student at **Savitribai Phule Pune University**
 

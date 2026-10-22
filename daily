@@ -1,0 +1,29 @@
+name: Daily Dummy Commit
+
+on:
+  schedule:
+    # Ye schedule roz subah UTC ke hisaab se run hoga (Cron syntax: minute hour day month day-of-week)
+    - cron: '30 4 * * *'
+  workflow_dispatch: # Isse aap manually bhi test run kar sakte hain
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update Dummy File
+        run: |
+          echo "Last active commit: $(date)" > activity.log
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add activity.log
+          git commit -m "chore: automated daily activity update [skip ci]" || exit 0
+          git push

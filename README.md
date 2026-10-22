@@ -1,381 +1,118 @@
 <div align="center">
+  <h1 align="center">Hi there, I'm Aditya Kishor Dudande 👋</h1>
+  <p align="center">
+    <strong>AI Engineer | Data Scientist | Data Analyst | Software Developer</strong>
+  </p>
+  <p align="center">
+    📍 Pune, Maharashtra, India
+  </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=260&section=header&text=ADITYA%20DUDANDE&fontSize=60&fontColor=ff003c&animation=fadeIn&fontAlignY=38&desc=Future%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=ff4d6d" width="100%"/>
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF003C&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Hi%2C+I'm+Aditya+Dudande;Building+AI+that+solves+real+problems;MCA+Student+%7C+AI+%2F+ML+%2F+Full+Stack;Turning+Ideas+Into+Intelligent+Systems" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/aditya-dudande-4947262a7">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-ff003c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" />
-</a>
-<a href="mailto:adityadudande@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20Out-ff003c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" />
-</a>
-<a href="https://github.com/adityadudande294-cmd">
-  <img src="https://img.shields.io/badge/GitHub-Follow-ff003c?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=adityadudande294-cmd&label=PROFILE+VIEWS&color=ff003c&style=for-the-badge&labelColor=0d0d0d" />
-
+  <!-- Social Badges -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/aditya-dudande-4947262a7/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:adityadudande@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/adityadudande294-cmd">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff003c,100:0d0d0d&height=3&width=100%" />
-<!-- ================= ABOUT ME ================= -->
-
-## ⟢ ABOUT ME
-
-<table>
-<tr>
-
-<td width="58%" valign="top">
-
-# 👋 Hello, I'm Aditya Dudande
-
-🎓 **Master of Computer Applications (MCA)**  
-Zeal Institute of Business Administration, Computer Application and Research  
-Savitribai Phule Pune University (Expected Graduation: **2027**)
 
 ---
 
-### 🚀 Current Mission
+### 👨‍💻 About Me
+Passionate **AI Engineer & Data Scientist** dedicated to developing intelligent automation systems, LLM-powered applications, and robust data analytics solutions. Hands-on experience across the entire machine learning and software lifecycle—from designing deep learning models and data preprocessing pipelines to building production-ready REST APIs and interactive dashboards[cite: 1].
 
-Designing intelligent software that combines **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development** to solve real-world problems.
-
----
-
-### 🔥 Currently Building
-
-🎬 **Velora**  
-AI Powered OTT Platform
-
-🎓 **Z-Connect**  
-LinkedIn-inspired Alumni & Student Networking Platform
-
-📄 **AI-Based Crisis Detection & Geo-Location Alert System**  
-Research Proposal Submitted
+- 🤖 **Current Focus:** LLM integration, SLM deployment, workflow automation engines, and edge AI security.
+- 💼 **Experience:** AI Engineer Intern at **AmpexWeb Pvt. Ltd.** | Ex-Software Development Intern at **EDUCORN**[cite: 1].
+- 🎓 **Education:** Pursuing Master of Computer Applications (MCA) at Zeal Institute (SPPU) | B.Sc. in Computer Science (SGBAU)[cite: 1].
+- 📜 **Research:** Research Paper Accepted by **IEEE**[cite: 1].
+- 🏆 **Leadership:** Led a team of 150+ volunteers across institutional events; awarded Best Team Award[cite: 1].
 
 ---
 
-### 🧠 Core Interests
+### 💼 Experience
 
-🤖 Artificial Intelligence
+#### 🔹 AI & Automation Intern | **AmpexWeb Pvt. Ltd.**
+- Building AI-driven intelligent workflows, workflow automation engines, and LLM/SLM application pipelines.
+- Architecting medical AI symptom analysis systems featuring secure end-to-end data encryption and Supabase database integrations.
+- Optimizing backend services and server infrastructure for scalable inference and real-time query handling.
 
-🧠 Machine Learning
-
-📊 Data Analytics
-
-⚛️ Full Stack Development
-
-☁️ Cloud Computing
-
-📚 Research & Innovation
+#### 🔹 Software Development Intern | **EDUCORN, Nagpur**[cite: 1]
+- Developed and delivered web application modules as part of an agile software engineering team[cite: 1].
+- Collaborated on unit testing, debugging, and deployment to guarantee robust releases[cite: 1].
+- Contributed across full-stack layers covering frontend UI and backend REST API logic[cite: 1].
 
 ---
 
-### 🎯 Career Vision
+### 🛠️ Tech Stack & Skills
 
-> Build AI products used by millions of people and contribute to the future of intelligent software.
+**AI, Machine Learning & Data Science:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_&_Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 
-</td>
+**Data Analytics & Business Intelligence:**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-336791?style=flat-square)
 
-<td width="42%" align="center" valign="top">
+**Backend & Databases:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AI_ENGINEER-ff003c?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/RESEARCHER-6f42c1?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/OPEN_TO_INTERNSHIPS-00875A?style=for-the-badge&logo=rocket&logoColor=white"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityadudande294-cmd&theme=github_dark" width="100%"/>
-
-</td>
-
-</tr>
-</table>
+**Frontend:**  
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
 
-<div align="center">
+### 🚀 Featured Projects
 
-### ⚡ AI ENGINEER ROADMAP
+#### 🔹 [MediCheck AI – Intelligent Medical Symptom Analyzer](https://github.com/adityadudande294-cmd)
+- **Tech Stack:** Python, FastAPI, Supabase, LLMs / SLMs, React, Tailwind CSS
+- End-to-end clinical AI symptom assessment platform delivering structured health triage and probable condition analysis.
+- Engineered multi-turn diagnostic reasoning pipelines backed by encrypted cloud database models and validation safeguards.
+- Implemented responsive, conversational UI with instant symptom mapping and interactive triage suggestions.
 
-```text
-AI Fundamentals      ██████████░░ 80%
+#### 🔹 [ANALYTIX – AI-Powered Business Intelligence Platform](https://github.com/adityadudande294-cmd)[cite: 1]
+- **Tech Stack:** Next.js, React, TypeScript, FastAPI, Python, MongoDB Atlas, Power BI, Google Gemini API[cite: 1]
+- Transforms unstructured Excel and CSV files into production-grade interactive analytics dashboards[cite: 1].
+- Implemented real-time KPI visualization, automated business reports, and narrative summaries using Google Gemini API[cite: 1].
+- Engineered low-latency, scalable backend REST endpoints using FastAPI for real-time analytics feeds[cite: 1].
 
-Machine Learning     █████████░░░ 75%
+#### 🔹 [VELORA – AI Multilingual Story Reading Platform](https://github.com/adityadudande294-cmd)[cite: 1]
+- **Tech Stack:** Next.js, React, TypeScript, FastAPI, Python, MongoDB Atlas, Google Gemini API, Three.js, GSAP[cite: 1]
+- Interactive storytelling platform featuring multilingual narration, immersive 3D graphics, and dynamic story sequencing[cite: 1].
+- Integrated AI-driven voice narration, automated content drafting, and recommendation engines[cite: 1].
+- Engineered high-throughput backend APIs with MongoDB Atlas for low-latency multimedia delivery[cite: 1].
 
-Deep Learning        ███████░░░░░ 60%
+---
 
-Full Stack           ██████████░░ 82%
-
-Data Analytics       █████████░░░ 78%
-
-Cloud & DevOps       ██████░░░░░░ 50%
-```
-
-> **"Every commit brings me one step closer to building the future with AI."**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:ff003c&height=3&width=100%" />
-
-## ⟢ GITHUB ANALYTICS
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityadudande294-cmd&show_icons=true&theme=react&hide_border=true&bg_color=0d0d0d&title_color=ff003c&icon_color=ff4d6d&text_color=e6e6e6&ring_color=ff003c" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadudande294-cmd&layout=compact&theme=react&hide_border=true&bg_color=0d0d0d&title_color=ff003c&text_color=e6e6e6&langs_count=10" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityadudande294-cmd&theme=react&hide_border=true&background=0d0d0d&ring=ff003c&fire=ff003c&currStreakLabel=ff4d6d" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityadudande294-cmd&theme=react-dark&hide_border=true&bg_color=0d0d0d&color=ff4d6d&line=ff003c&point=ffffff&area=true&area_color=ff003c" width="95%"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=adityadudande294-cmd&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aditya's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadudande294-cmd&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff003c,100:0d0d0d&height=3&width=100%" />
-
-## ⟢ GITHUB TROPHIES
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adityadudande294-cmd&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:ff003c&height=3&width=100%" />
-
-## ⟢ TECH ARSENAL
-
-<div align="center">
-
-**Languages**
-
-<img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/C%2B%2B-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=ff003c"/>
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/Bootstrap-0d0d0d?style=for-the-badge&logo=bootstrap&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/TailwindCSS-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/Vite-0d0d0d?style=for-the-badge&logo=vite&logoColor=ff003c"/>
-
-**Backend & APIs**
-
-<img src="https://img.shields.io/badge/Django-0d0d0d?style=for-the-badge&logo=django&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/Express-0d0d0d?style=for-the-badge&logo=express&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/REST%20API-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=ff003c"/>
-
-**Databases**
-
-<img src="https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/Firebase-0d0d0d?style=for-the-badge&logo=firebase&logoColor=ff003c"/>
-
-**AI / ML / Data**
-
-<img src="https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/OpenCV-0d0d0d?style=for-the-badge&logo=opencv&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/Power%20BI-0d0d0d?style=for-the-badge&logo=powerbi&logoColor=ff003c"/>
-
-**Tools & Cloud**
-
-<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=ff003c"/>
-<img src="https://img.shields.io/badge/Postman-0d0d0d?style=for-the-badge&logo=postman&logoColor=ff003c"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff003c,100:0d0d0d&height=3&width=100%" />
-
-## ⟢ CURRENTLY LEARNING
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-1a0000?style=flat-square&color=ff003c"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-1a0000?style=flat-square&color=ff003c"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-1a0000?style=flat-square&color=ff003c"/>
-<img src="https://img.shields.io/badge/React-1a0000?style=flat-square&color=ff003c"/>
-<img src="https://img.shields.io/badge/Django-1a0000?style=flat-square&color=ff003c"/>
-<img src="https://img.shields.io/badge/AWS-1a0000?style=flat-square&color=ff003c"/>
-<img src="https://img.shields.io/badge/Docker-1a0000?style=flat-square&color=ff003c"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-1a0000?style=flat-square&color=ff003c"/>
-<img src="https://img.shields.io/badge/SQL-1a0000?style=flat-square&color=ff003c"/>
-<img src="https://img.shields.io/badge/MongoDB-1a0000?style=flat-square&color=ff003c"/>
-<img src="https://img.shields.io/badge/Power%20BI-1a0000?style=flat-square&color=ff003c"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:ff003c&height=3&width=100%" />
-
-## ⟢ FEATURED PROJECTS
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🔺 Velora
-
-**AI Powered OTT Platform**
-
-An intelligent streaming platform that blends AI-driven recommendations with a seamless full-stack experience.
-
-**Tech Stack**
-`React` · `Django` · `MongoDB` · `Tailwind CSS` · `REST API`
-
-**Status:** `In Development`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔺 Z-Connect
-
-**Alumni & Student Networking Platform**
-
-A LinkedIn-style ecosystem built for colleges, connecting students and alumni for mentorship, networking, career guidance, and placements.
-
-**Features**
-`Student Profiles` · `Alumni Profiles` · `Mentorship` · `Networking` · `Career Guidance` · `Placement Support` · `Authentication`
-
-**Tech Stack**
-`React` · `Django` · `MongoDB`
-
-**Status:** `In Development`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="100%" valign="top">
-
-### 🔺 Research Paper — AI-Based Crisis Detection & Geo-Location Alert System
-
-A research initiative exploring AI-driven emergency detection for international travelers, combining machine learning with geo-intelligence for real-time alerting.
-
-**Research Areas**
-`Artificial Intelligence` · `Machine Learning` · `Emergency Response` · `Geo Intelligence` · `Location-Based Alert Systems`
-
-**Status:** `Research Proposal Submitted`
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff003c,100:0d0d0d&height=3&width=100%" />
-
-## ⟢ GOALS & ACHIEVEMENTS
-
-<div align="center">
-
-| Milestone | Detail |
-|:--|:--|
-| 🎯 Long-Term Goal | Become a professional AI Engineer building real-world intelligent products |
-| 📄 Research | Submitted proposal on AI-based crisis detection systems |
-| 🚀 Products | Building Velora and Z-Connect as flagship full-stack + AI projects |
-| 📚 Continuous Learning | Actively upskilling in Cloud, MLOps, and Data Analytics |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:ff003c&height=3&width=100%" />
-
-## ⟢ FUN FACTS
-
-<div align="center">
-
-⚡ I debug in the dark — cyberpunk aesthetic, matching mindset.
-🧠 I believe every model is only as good as the problem it solves.
-🛠️ I enjoy turning research papers into working prototypes.
-🌌 Always one `git commit` away from the next big idea.
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff003c,100:0d0d0d&height=3&width=100%" />
-
-<div align="center">
-
-### ⟢ QUOTE
-
-> *"Intelligence is not artificial when it is built with purpose."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:ff003c&height=3&width=100%" />
-
-## ⟢ CONTACT ME
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aditya-dudande-4947262a7">
-  <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Dudande-ff003c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" />
-</a>
-<a href="mailto:adityadudande@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-adityadudande%40gmail.com-ff003c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" />
-</a>
-
-<br/><br/>
-
-📍 **Pune, Maharashtra, India**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff003c,100:0d0d0d&height=3&width=100%" />
-
-## ⟢ CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/adityadudande294-cmd/adityadudande294-cmd/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-
-<sub>Generated automatically by GitHub Actions — see setup instructions below.</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ff003c&animation=fadeIn" width="100%"/>
-
-</div>
+---
+
+### 💬 Let's Connect!
+- **Email:** [adityadudande@gmail.com](mailto:adityadudande@gmail.com)[cite: 1]
+- **LinkedIn:** [Aditya Dudande](https://www.linkedin.com/in/aditya-dudande-4947262a7/)[cite: 1]
+- **GitHub:** [adityadudande294-cmd](https://github.com/adityadudande294-cmd)[cite: 1]
+- **Location:** Pune, Maharashtra, India[cite: 1]
